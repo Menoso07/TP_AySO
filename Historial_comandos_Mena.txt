@@ -1,8 +1,6 @@
 pwd
 echo hola
 echo buen día 
-ehco nigger
-echo nigger
 clear
 echo $HOME
 pwd
